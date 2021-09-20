@@ -33,7 +33,7 @@ GitHub is a Git repository hosting service
 
 ### 4. GitHub 101 Terminologies
 
-![](https://www.coredna.com/web_images/What-is-Git-Infographic.png)
+![GitHub Terminologies](https://www.coredna.com/web_images/What-is-Git-Infographic.png)
 
   
 ### 5. Activities
