@@ -33,16 +33,9 @@ GitHub is a Git repository hosting service
 
 ### 4. GitHub 101 Terminologies
 
-![GitHub Terminologies](https://www.coredna.com/web_images/What-is-Git-Infographic.png)
-
+![GitHub Terminologies](https://user-images.githubusercontent.com/47777599/209633200-e2424ad7-f3dd-4f47-bd88-25bcc58e87cc.png)
   
-### 5. Activities
-
- - [Activities](https://www.menti.com/rtt7zb4isf)
-  
-### 6. Git Commands
-
-Install my-project with npm
+### 5. Git Commands
 
 ```bash
   git config --global user.name “[firstname lastname]” //set a name
@@ -64,6 +57,12 @@ Install my-project with npm
 ```
 ```
   git push -u origin main //Transmit local branch commits to the remote repository branch
+```
+```
+  git log //to view the commit history for the current branch
+```
+```
+  git log --oneline //Display a list of commits, starting with the most recent
 ```
 ### 7. Using Git and GitHub
 
